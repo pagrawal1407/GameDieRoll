@@ -1,5 +1,7 @@
 #include <iostream>
-#include <GameDie.h>
+#include "GameDie.h"
+
+using namespace std;
 
 int main()
 {
