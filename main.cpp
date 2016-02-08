@@ -12,5 +12,6 @@ int main()
 
   GameDie D (n);
   rollnum = D.roll();
-  return 0;
+  cout << endl << "Rolled number is: " << rollnum;
+return 0;
 }
